@@ -1,9 +1,3 @@
----
-title: Welcome to Daniel's page
-layout: default
-nav_order: 1
----
-
 
 # Headings
 
