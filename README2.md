@@ -8,7 +8,8 @@ layout: page
 
 ![Picture of ME](assets/images/profile.jpg)
 
-I guess you can call me a recovering academic with a passion for research and writing about environmental science, technology, and data analysis. 
+I am a chemical engineer, environmental scientist, and publised author with a passion for research and writing about environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist for seven years, as a postdoctoral fellow and as an Environmental Science Professor for 
+
 ## Features
 
  - supports dark mode on macOS Mojave
