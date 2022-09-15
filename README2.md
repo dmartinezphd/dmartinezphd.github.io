@@ -12,7 +12,7 @@ I am a chemical engineer, environmental scientist, and published author, with a 
 
 A project that I spent so much time and effort trying to develop over that last few years was a 2U CubeSat called Earthshine. It's mission is to photograph the moon at multiple phase angles from a Low Earth Orbit in order to estimate Earth's albedo, and by proxy climate. We only got to an early proof of concept before I left my university. Cubesats are a fascinating technology that has a huge potential for low risk, high reward research.  
 
-![Picture of Earthshine](assets/images/earthshine1.jpg)
+![Picture of Earthshine](assets/images/earthshine2.jpg)
 
 
 Lastly, I'm also interested in helping others design, manage, and carry out research in STEM fields that align with my expertise.
