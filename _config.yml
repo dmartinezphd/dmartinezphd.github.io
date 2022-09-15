@@ -19,7 +19,7 @@ minimal: true           # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   
   - {file: "README2.md", title: "about me"}
-  - {file: "randomwalk.md", "random walk research"}
+  - {file: "randomwalk.md", title: "random walk research"}
   - {file: "index.html", title: "back to blog"}
  
 
