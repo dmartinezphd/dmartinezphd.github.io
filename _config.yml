@@ -1,7 +1,7 @@
 title: "Daniel Martínez, PhD"
 author: "dmartinezphd"
 #description: "<b style=\"color: #f45;\">Daniel's information site and blog</b>"
-description: "Daniel's information site and blog"
+description: "How to reach me, where to find me on socials"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
