@@ -4,9 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## about me
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Hola, it's me, Daniel.
+
+![Picture of ME](assets/images/profile.jpg)
 
 ## Features
 
