@@ -4,12 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## about me
-
-Hola, it's me, Daniel.
+## Hola, it's me, Daniel.
 
 ![Picture of ME](assets/images/profile.jpg)
 
+I guess you can call me a recovering academic with a passion for research and writing about environmental science, technology, and data analysis. 
 ## Features
 
  - supports dark mode on macOS Mojave
