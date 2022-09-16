@@ -8,7 +8,7 @@ layout: page
 
 ![Picture of ME](assets/images/profile.jpg)
 
-I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist, as a postdoctoral fellow studying energy-society linkages, and as an Environmental Science Professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time operating through my LLC Ranom Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on environmental sensor technology and data science. I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
+I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time operating through my LLC Ranom Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on environmental sensor technology and data science. I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
 ## Relevant Education
 
@@ -36,6 +36,7 @@ University of Southern Maine (2008 - 2022)
 - Presenting and/or teaching diverse subject matter to informed and uninformed audiences
 - Programming (BASIC, MathCad, a little C and FORTRAN)
 - Protoype development
+- Patience and tolerance for pain
 
 ## What I'm learning now
 - Data Science Fundamentals (Python, R, SQL)
