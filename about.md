@@ -29,12 +29,18 @@ University of Southern Maine (2008 - 2022)
 
 ## Useful Skills I Picked Up During My Journey
 - Data analysis and Visualization with MS Excel (a way under-rated skill in my opinion)
-- Programming (BASIC, MathCad, a little C and now learning Python)
+- Programming (BASIC, MathCad, a little C and FORTRAN)
 - Literature Review
 - Proposal Writing
 - Project Management
 - Presenting and/or teaching materials to informed and uninformed audiences
 - Protoype development
+
+## What I'm learning now
+- Data Science Fundamentals (Python, R, SQL)
+- IOT sensor systems
+- CubeSats
+- How to run a successful research and consulting business
 
 ## Final Thought
 My greatest trait is that I am able to find solutions to problems that help gets a project "unstuck." 
