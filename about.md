@@ -8,7 +8,7 @@ layout: page
 
 ![Picture of ME](assets/images/profile.jpg)
 
-I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist, as a postdoctoral fellow studying energy-society linkages, and as an Environmental Science Professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time operating through my LLC Ranom Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on environmental sensor technology and data sceince. I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
+I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist, as a postdoctoral fellow studying energy-society linkages, and as an Environmental Science Professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time operating through my LLC Ranom Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on environmental sensor technology and data science. I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
 ## Relevant Education
 
@@ -29,11 +29,12 @@ University of Southern Maine (2008 - 2022)
 
 ## Useful Skills I Picked Up During My Journey
 - Data analysis and Visualization with MS Excel (a way under-rated skill in my opinion)
-- Programming (BASIC, MathCad, a little C and FORTRAN)
+- Writing book-length manuscripts
 - Literature Review
 - Proposal Writing
 - Project Management
-- Presenting and/or teaching materials to informed and uninformed audiences
+- Presenting and/or teaching diverse subject matter to informed and uninformed audiences
+- Programming (BASIC, MathCad, a little C and FORTRAN)
 - Protoype development
 
 ## What I'm learning now
@@ -43,7 +44,7 @@ University of Southern Maine (2008 - 2022)
 - How to run a successful research and consulting business
 
 ## Final Thought
-My greatest trait is that I am able to find solutions to problems that help gets a project "unstuck." 
+My greatest trait is that I am able to find solutions to problems that help get a project "unstuck." 
 
 
 
