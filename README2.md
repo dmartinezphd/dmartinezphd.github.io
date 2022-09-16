@@ -16,7 +16,7 @@ BS Chemical Engineering; University of Rochester (1999)
 
 PhD Chemical Engineering; University of Rochester (2007)
 
-## Relevant Expereince
+## Relevant Experience
 
 NASA Goddard Space Flight Center (2000-2007)
 - After my 1-year PhD residency requirement, I spent the balance of my PhD doing research at NASA-Goddard's Code 691 (Astrochemistry), first as a Graduate Student Researchers Program Fellow and then as a NASA Co-Op, which was an immediate path to federal employment
