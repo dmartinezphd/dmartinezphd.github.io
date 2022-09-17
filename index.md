@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 
-<h2 align="center"> Daniel Martinez's Personal Site </h2>
+<h2 align="left"> Daniel Martinez's Personal Site </h2>
 
-<p align="center">
+<p align="left">
   <img src="assets/images/profile.jpg">
 </p>
 
