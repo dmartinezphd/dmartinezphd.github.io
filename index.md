@@ -10,8 +10,8 @@ title: ""
 
 <h2 align="center"> Home </h2>
 
-<center>
+<p align = "center">
   
 # [Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
 
-</center>
+</p>
