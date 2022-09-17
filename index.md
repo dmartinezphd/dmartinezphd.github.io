@@ -7,11 +7,8 @@ title: ""
 
 <div style="text-align: center"><img src="assets/images/profile.jpg" width = "300"></div>
 
-
-<h2 align="center"> Home </h2>
-
-<p align = "center">
+<center>
   
 # [Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
 
-</p>
+</center>
