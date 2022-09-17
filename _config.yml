@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
   - {title: Github, icon: github, url: "https://github.com/dmartinezphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/danielmartinezphd/"}
-  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
