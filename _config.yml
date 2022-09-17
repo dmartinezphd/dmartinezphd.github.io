@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
   - {file: "index.md", title: "home"}
   - {file: "blog.md", title: "fsr blog"}
-  - {file: "portfolio.md", title: "/usr"}
-  - {file: "about.md", title: "about me/legal"} 
+  - {file: "listofworks.md", title: "LOWs"}
+  - {file: "about.md", title: "about/legal"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
