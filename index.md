@@ -7,7 +7,11 @@ title: ""
 
 <div style="text-align: center"><img src="assets/images/profile.jpg" width = "300"></div>
 
-# [Home](/index.md) 
 
-# [Blog](/blog.md)
+<h2 align="center"> Home </h2>
 
+<div style={{textAlign: 'center'}}>
+
+# [Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
+
+</div>
