@@ -2,11 +2,6 @@
 layout: page
 title: "index"
 ---
----
-title: ""
-permalink: "/about/"
-layout: page
----
 
 <h2 align="center"> Daniel Martinez's Personal Site </h2>
 
