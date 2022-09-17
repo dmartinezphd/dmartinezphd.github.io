@@ -14,6 +14,6 @@ title: ""
 
 <center>
 
-  <a href="https://dmartinezphd.github.io/">home</a> | <a href="https://dmartinezphd.github.io/blog">blog</a> | <a href="https://dmartinezphd.github.io/about">about me</a>
+  <a href="https://dmartinezphd.github.io/">home</a> | <a href="https://dmartinezphd.github.io/blog">fsr blog</a> | <a href="https://dmartinezphd.github.io/listofworks">list of works</a> | <a href="https://dmartinezphd.github.io/about">about/legal</a> 
 
 </center>
