@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "index"
+title: ""
 ---
 
 <h2 align="center"> Daniel Martinez's Personal Site </h2>
