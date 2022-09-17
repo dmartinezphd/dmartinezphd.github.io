@@ -10,6 +10,8 @@ layout: page
 
 I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC Ranom Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on fundamental research, environmental sensor technology, and data science. I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
+My greatest trait is that I am able to find solutions to problems that help get a project "unstuck." 
+
 ## Relevant Education
 
 BS Chemical Engineering; University of Rochester (1999)
@@ -44,8 +46,7 @@ University of Southern Maine (2008 - 2022)
 - CubeSats
 - How to run a successful research and consulting business
 
-## Final Thought
-My greatest trait is that I am able to find solutions to problems that help get a project "unstuck." 
+## Legal
 
 
 
