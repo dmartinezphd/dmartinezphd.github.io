@@ -11,8 +11,6 @@ title: ""
 
 <h2 align="center"> And Home of the Random Walks Blog </h2>
 
-<br>
-
 <center>
 
   <a href="https://dmartinezphd.github.io/">home</a> | <a href="https://dmartinezphd.github.io/blog">blog</a> | <a href="https://dmartinezphd.github.io/about">about me</a>
