@@ -5,7 +5,7 @@ title: ""
 
 <br>
 
-<h2 align="center"> Daniel Martinez's Personal Site </h2>
+<h2 align="center"> Daniel Martínez's Personal Site </h2> 
 
 <div style="text-align: center"><img src="assets/images/profile.jpg" width = "250" ></div>
 
