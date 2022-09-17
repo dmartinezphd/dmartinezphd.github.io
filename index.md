@@ -15,6 +15,6 @@ title: ""
 
 <center>
 
-  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+  <a href="https://dmartinezphd.github.io/">Home</a> | <a href="https://dmartinezphd.github.io/">Home</a> | <a href="https://dmartinezphd.github.io/">Home</a>
 
 </center>
