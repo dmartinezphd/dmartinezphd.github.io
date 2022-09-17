@@ -9,6 +9,5 @@ title: ""
   <img src="assets/images/profile.jpg">
 </p>
 
-# Hyperlink
+# [Home](https://scds.github.io/github-pages/lesson2.html)
 
-[Lesson 2 of our workshop](https://scds.github.io/github-pages/lesson2.html)
