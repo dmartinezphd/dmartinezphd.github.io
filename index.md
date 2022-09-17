@@ -10,8 +10,8 @@ title: ""
 
 <h2 align="center"> Home </h2>
 
-<div style={{textAlign: 'center'}}>
+<center>
+  
+# [Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
 
-[Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
-
-</div>
+</center>
