@@ -7,7 +7,7 @@ title: ""
 
 <h2 align="center"> Daniel Martinez's Personal Site </h2>
 
-<div style="text-align: center"><img src="assets/images/profile.jpg"></div>
+<div style="text-align: center"><img src="assets/images/profile.jpg" size = "200" ></div>
 
 <h2 align="center"> And Home of the Random Walks Blog </h2>
 
