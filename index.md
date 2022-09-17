@@ -9,5 +9,6 @@ title: ""
   <img src="assets/images/profile.jpg">
 </p>
 
-# [Home](/index.md) [Blog](/blog.md)
+# [Home](/index.md) 
 
+# [Blog](/blog.md)
