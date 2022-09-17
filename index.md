@@ -9,7 +9,8 @@ title: ""
 
 <div style="text-align: center"><img src="assets/images/profile.jpg" width = "250" ></div>
 
-<h2 align="center"> And Home of the Further Study Blog </h2>
+<h2 align="center"> And Home of the </h>
+<h2 align="center"> Further Study Required Blog </h2>
 
 <center>
 
