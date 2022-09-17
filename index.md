@@ -15,7 +15,7 @@ title: ""
 
 <center>
 
-  <a href="https://dmartinezphd.github.io/">Home</a> | <a href="https://dmartinezphd.github.io/blog">Blog</a> | <a href="https://dmartinezphd.github.io/about">About Me</a>
+  <a href="https://dmartinezphd.github.io/">home</a> | <a href="https://dmartinezphd.github.io/blog">blog</a> | <a href="https://dmartinezphd.github.io/about">about me</a>
 
 </center>
 
