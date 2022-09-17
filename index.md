@@ -3,15 +3,15 @@ layout: page
 title: ""
 ---
 
-<hr>
+<br>
 
 <h2 align="center"> Daniel Martinez's Personal Site </h2>
 
-<hr>
+<br>
 
 <div style="text-align: center"><img src="assets/images/profile.jpg" width = "300"></div>
 
-<hr>
+<br>
 
 <center>
 
@@ -19,4 +19,4 @@ title: ""
 
 </center>
 
-<hr>
+<br>
