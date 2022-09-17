@@ -6,6 +6,7 @@ title: ""
 <br>
 
 <h2 align="center"> Daniel Martinez's Personal Site </h2>
+<h2 align="center"> And home of the Random Walks Blog </h2>
 
 <br>
 
