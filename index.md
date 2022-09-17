@@ -12,6 +12,6 @@ title: ""
 
 <div style={{textAlign: 'center'}}>
 
-# [Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
+[Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
 
 </div>
