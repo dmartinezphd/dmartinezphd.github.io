@@ -12,3 +12,9 @@ title: ""
 # [Home](/index.md) | [Blog](/blog.md) | [About](/about.md)
 
 </center>
+
+<center>
+
+  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
+</center>
