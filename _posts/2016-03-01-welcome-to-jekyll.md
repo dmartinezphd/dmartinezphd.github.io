@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll"
 layout: post
-tags: Personal
+tags: personal
 pin: true
 ---
 
