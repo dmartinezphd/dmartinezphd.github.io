@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "fsr blog"}
   - {file: "listofworks.md", title: "LOWs"}
   - {file: "about.md", title: "about/legal"}
-  - {file: "categories.html", title: "categories"}
+  - {file: "tags.html", title: "tags"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
