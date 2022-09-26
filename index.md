@@ -8,7 +8,7 @@ title: ""
 
 <br>
 
-Useful Links: <a href="https://dmartinezphd.github.io/tags">blog tags</a> + <a href="https://dmartinezphd.github.io/projects">projects</a> + <a href="https://dmartinezphd.github.io/about">about</a>
+Useful Links: <a href="https://dmartinezphd.github.io/tags">blog tags</a> + <a href="https://dmartinezphd.github.io/projects">projects</a> + <a href="https://dmartinezphd.github.io/about">teaching</a>
 
 <br>
 
