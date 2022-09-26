@@ -20,8 +20,8 @@ minimal: true           # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   
   - {file: "index.md", title: "home"}
-  - {file: "blog.md", title: "fsr blog"}
-  - {file: "listofworks.md", title: "LOWs"}
+  - {file: "blog.md", title: "blog"}
+  # - {file: "listofworks.md", title: "LOWs"}
   - {file: "about.md", title: "about/legal"}
   - {file: "tags.html", title: "tags"}
 
