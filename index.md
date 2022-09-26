@@ -2,30 +2,8 @@
 layout: page
 title: ""
 ---
-<img align="left" src="assets/images/profile.jpg" alt="My Image"> Welcome to my personal site and home of the Further Study Required Blog!
-
-
-<br>
-
-<h2 align="center"> Daniel Martínez's Personal Site </h2> 
-
-<div style="text-align: center"><img src="assets/images/profile.jpg" width = "250" ></div>
-
-<h3 align="center"> and home of the </h3>
-<h2 align="center"> Further Study Required blog </h2>
-
-<style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
-
-
-
-
+<img align="left" src="assets/images/profile.jpg" alt="My Image" width = "300"> 
+<h2> Welcome to my personal site and home of the Further Study Required Blog! </h2>
 
 <center>
 
