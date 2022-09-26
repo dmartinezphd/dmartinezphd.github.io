@@ -1,7 +1,7 @@
 title: "Daniel Martínez"
 author: "dmartinezphd"
 #description: "<b style=\"color: #f45;\">Daniel's information site and blog</b>"
-description: "©2022 All rights Reserved"
+description: "©2022 All rights Reserved [Privacy](/privacy.html)"
 logo: /assets/images/profile.jpg
 permalink: /:title/
 lang: "en"
