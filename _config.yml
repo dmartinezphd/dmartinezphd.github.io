@@ -1,8 +1,7 @@
 title: "Daniel Martínez"
 author: "dmartinezphd"
 #description: "<b style=\"color: #f45;\">Daniel's information site and blog</b>"
-description: "©2022 All rights Reserved [Privacy](https://dmartinezphd.github.io/privacy.html)"
-logo: /assets/images/profile.jpg
+description: "©2022 All rights Reserved"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -26,6 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "tags.html", title: "tags"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Privacy, url: "/privacy.html"}
   - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
   - {title: Github, icon: github, url: "https://github.com/dmartinezphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
