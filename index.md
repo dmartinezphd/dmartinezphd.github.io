@@ -28,7 +28,7 @@ Other Links: | <a href="https://dmartinezphd.github.io/business">inquiries</a> |
 
 <br>
 
-Relevant Links: | <a href="https://dmartinezphd.github.io/blog">fsr blog</a> | <a href="https://dmartinezphd.github.io/projects">projects</a> | <a href="https://dmartinezphd.github.io/about">about</a> |
+Relevant Links: <a href="https://dmartinezphd.github.io/blog">fsr blog</a> <a href="https://dmartinezphd.github.io/projects">projects</a> <a href="https://dmartinezphd.github.io/about">about</a>
 
 <br>
 
