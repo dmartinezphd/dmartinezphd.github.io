@@ -2,16 +2,7 @@
 layout: page
 title: ""
 ---
-<style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
-
-![ME](./assets/images/profile.jpg)]{: .image-left } Welcome to my personal site and home of the Further Study Required Blog!
+<img align="left" src="assets/images/profile.jpg" alt="My Image"> Welcome to my personal site and home of the Further Study Required Blog!
 
 
 <br>
