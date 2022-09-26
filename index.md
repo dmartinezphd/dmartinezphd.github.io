@@ -9,7 +9,7 @@ title: ""
 
 <center>
 
-  Relevant Links: | <a href="https://dmartinezphd.github.io/blog">fsr blog</a> | <a href="https://dmartinezphd.github.io/projects">projects</a> | <a href="https://dmartinezphd.github.io/about">about</a> |
+Relevant Links: | <a href="https://dmartinezphd.github.io/blog">fsr blog</a> | <a href="https://dmartinezphd.github.io/projects">projects</a> | <a href="https://dmartinezphd.github.io/about">about</a> |
 
 </center>
 
@@ -17,6 +17,6 @@ title: ""
 
 <center>
 
-  Other Links: | <a href="https://dmartinezphd.github.io/business">business inquiries</a> | <a href="https://dmartinezphd.github.io/legal">legal</a> | <a href="https://dmartinezphd.github.io/privacy">privacy</a> |
+Other Links: | <a href="https://dmartinezphd.github.io/business">business inquiries</a> | <a href="https://dmartinezphd.github.io/legal">legal</a> | <a href="https://dmartinezphd.github.io/privacy">privacy</a> |
 
 </center>
