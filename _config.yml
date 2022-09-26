@@ -1,7 +1,7 @@
 title: "Daniel Martínez"
 author: "dmartinezphd"
 #description: "<b style=\"color: #f45;\">Daniel's information site and blog</b>"
-description: "©DMM 2022 All rights reserved."
+description: "©2022 All rights reserved."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
