@@ -13,6 +13,6 @@ title: ""
 
 <center>
 
-  Other Links: | <a href="https://dmartinezphd.github.io/legal">legal</a> | <a href="https://dmartinezphd.github.io/privacy">privacy</a> |
+  Other Links: | <a href="https://dmartinezphd.github.io/business">business inquiries</a> | <a href="https://dmartinezphd.github.io/legal">legal</a> | <a href="https://dmartinezphd.github.io/privacy">privacy</a> |
 
 </center>
