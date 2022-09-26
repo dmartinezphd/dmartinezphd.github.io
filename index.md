@@ -7,6 +7,6 @@ title: ""
 
 <center>
 
-  Relevant Links: <a href="https://dmartinezphd.github.io/">home</a> | <a href="https://dmartinezphd.github.io/blog">fsr blog</a> | <a href="https://dmartinezphd.github.io/listofworks">list of works</a> | <a href="https://dmartinezphd.github.io/about">about</a> | <a href="https://dmartinezphd.github.io/legal">legal</a>
+  Relevant Links: | <a href="https://dmartinezphd.github.io/blog">fsr blog</a> | <a href="https://dmartinezphd.github.io/listofworks">list of works</a> | <a href="https://dmartinezphd.github.io/about">about</a> | <a href="https://dmartinezphd.github.io/legal">legal</a>
 
 </center>
