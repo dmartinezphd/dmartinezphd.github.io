@@ -4,7 +4,7 @@ title: ""
 ---
 
 <img src="assets/images/profile.jpg" alt="My Image" width="270" align="left" style="margin: 0px 10px 0px 0px;" /> 
-<h2> Welcome to my personal site and home of the Further Study Required Blog!</h2>
+<h3> Welcome to my personal site and home of the Further Study Required Blog!</h3>
 
 <br>
 
