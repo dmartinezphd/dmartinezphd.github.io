@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <img align="left" src="assets/images/profile.jpg" alt="My Image" width = "300"> 
-<h2 align="center"> Welcome to my personal site and home of the Further Study Required Blog! </h2>
+<h2 align="center">      Welcome to my personal site and home of the Further Study Required Blog! </h2>
 
 <center>
 
