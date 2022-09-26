@@ -21,7 +21,7 @@ Other Links: | <a href="https://dmartinezphd.github.io/business">inquiries</a> |
 
 </center>
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 <img src="assets/images/profile.jpg" alt="My Image" width="350" align="left" style="margin: 0px 10px 0px 0px;" /> 
 <h2> Welcome to my personal site and home of the Further Study Required Blog!</h2>
