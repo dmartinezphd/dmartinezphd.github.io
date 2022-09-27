@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Daniel Martínez, PhD"
 ---
 
 <img src="assets/images/profile.jpg" alt="My Image" width="220" align="left" style="margin: 0px 10px 0px 0px;" /> 
