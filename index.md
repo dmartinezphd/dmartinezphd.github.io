@@ -4,7 +4,7 @@ title: ""
 ---
 
 <img src="assets/images/profile.jpg" alt="My Image" width="220" align="left" style="margin: 0px 10px 0px 0px;" /> 
-<h3> Welcome to my personal site and the home of the Further Study Required Blog!</h3>
+<h3> Welcome to my personal site and home of the Further Study Required Blog!</h3>
 
 Go to Blog --> <a href="https://dmartinezphd.github.io/blog">Further Study Required</a>
 
