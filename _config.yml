@@ -17,8 +17,7 @@ minimal: true           # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  
-  - {title: "Daniel Martínez"}
+
   - {file: "index.md", title: "home"}
   - {file: "blog.md", title: "blog"}
   # - {file: "projects.md", title: "projects"}
