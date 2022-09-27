@@ -46,8 +46,6 @@ University of Southern Maine (2008 - 2022)
 - CubeSats
 - How to run a successful research and consulting business
 
-## Legal
-
 
 
 
