@@ -26,9 +26,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   # - {title: You accept Privacy Policy by entering site, url: "https://dmartinezphd.github.io/privacy/"}
-  - {title: , icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
-  - {title: , icon: github, url: "https://github.com/dmartinezphd"}
-  - {title: , icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
+  - {title: mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
+  - {title: gh, icon: github, url: "https://github.com/dmartinezphd"}
+  - {title: in, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
   # - {icon: rss, url: "/feed.xml"}
 
 comments:
