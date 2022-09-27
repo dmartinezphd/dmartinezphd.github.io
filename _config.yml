@@ -1,8 +1,7 @@
 title: "Further Study Required"
 author: "dmartinezphd"
 #description: "<b style=\"color: #f45;\">Daniel's information site and Further Study Required blog</b>"
-tagline: "Daniel Martínez"
-description: "©2022 All rights reserved."
+description: "Daniel Martínez <br>©2022 All rights reserved."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -27,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "tags.html", title: "tags"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: You accept Privacy Policy by entering site, url: "https://dmartinezphd.github.io/privacy/"}
+  # - {title: You accept Privacy Policy by entering site, url: "https://dmartinezphd.github.io/privacy/"}
   - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
   - {title: Github, icon: github, url: "https://github.com/dmartinezphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
