@@ -9,7 +9,6 @@ title: ""
 - The website currently does not use Google Analytics but may in the future. If so, it will do so in a GDPR compliant way.
 - Cookies are used where necessary.
 - Local storage is used where necessary.
-- This website is not directed towards children under eighteen (18)
 - The site is hosted by GitHub Pages.
 
 ## Introduction
@@ -22,7 +21,7 @@ This website and its owner make every effort to ensure the necessary steps are t
 
 ## Your Consent
 
-By using our site, you consent to our online privacy policy.
+By using this site, you consent to this online privacy policy.
 
 ## Access logs
 
@@ -42,10 +41,10 @@ dmartinezphd.github.io currently does not use Google Analytics to analyze the us
 
 Once Google Analytics is implemented, dmartinezphd.github.io will not collect and send any Personal Identifiable Information (PII) to Google Analytics and will take the following steps to make the use of Google Analytics privacy-friendly (GDPR compliant):
 
-The Google Analytics Data Processing Amendment has been accepted
-IP addresses are processed anonymously
-Sharing of data with Google is disabled
-There is no use of other Google services in combination with the Google Analytics cookies.
+- The Google Analytics Data Processing Amendment has been accepted
+- IP addresses are processed anonymously
+- Sharing of data with Google is disabled
+- There is no use of other Google services in combination with the Google Analytics cookies.
 
 
 # Refusing cookies
@@ -58,7 +57,7 @@ Certain pages on this website may use your browser’s local storage to allow yo
 Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website. The owner of this website cannot guarantee or verify the contents of any externally linked website despite his best efforts. Users should therefore note they click on external links at their own risk and this website and its owner cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
 # Children’s Information
-We do not intentionally collect any personal information from children under the age of eighteen (18) through this website. This website is not directed towards children under eighteen (18). If you believe that we have collected personal information from a child under the age of eighteen (18) through this website, please contact us.
+We do not intentionally collect any personal information from children under the age of eighteen (18) through this website. This website is not directed towards children under eighteen (18). 
 
 # Online Privacy Policy Only
 This online privacy policy applies only to information collected through the website and not to information collected offline.
@@ -66,4 +65,4 @@ This online privacy policy applies only to information collected through the web
 # Changes to policy
 Changes in this policy will be posted on this page. You are advised to check this page regularly to view the most recent privacy policy.
 
-Last updated 21 Sept 2022
+Last updated 26 Sept 2022
