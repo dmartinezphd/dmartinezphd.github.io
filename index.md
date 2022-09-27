@@ -8,6 +8,6 @@ title: ""
 
 Go to Blog --> <a href="https://dmartinezphd.github.io/blog">Further Study Required</a>
 
-Useful Links: <a href="https://dmartinezphd.github.io/projects">projects</a> + <a href="https://dmartinezphd.github.io/about">teaching</a> + <a href="https://dmartinezphd.github.io/tags">blog tags</a>
+Useful Links: <a href="https://dmartinezphd.github.io/projects">projects</a> + <a href="https://dmartinezphd.github.io/teaching">teaching</a> + <a href="https://dmartinezphd.github.io/tags">blog tags</a>
 
 Other Links: <a href="https://dmartinezphd.github.io/business">inquiries</a> + <a href="https://dmartinezphd.github.io/legal">legal</a> + <a href="https://dmartinezphd.github.io/privacy">privacy</a>
