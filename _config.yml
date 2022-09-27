@@ -18,18 +18,18 @@ minimal: true           # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
-  - {file: "index.md", title: "home"}
-  - {file: "blog.md", title: "blog"}
+  - {file: "index.md", title: "Home"}
+  - {file: "blog.md", title: "Blog"}
   # - {file: "projects.md", title: "projects"}
-  - {file: "about.md", title: "about"}
+  - {file: "about.md", title: "About Me"}
   # - {file: "tags.html", title: "tags"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   # - {title: You accept Privacy Policy by entering site, url: "https://dmartinezphd.github.io/privacy/"}
-  - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
-  - {title: Github, icon: github, url: "https://github.com/dmartinezphd"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
-  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
+  - {icon: github, url: "https://github.com/dmartinezphd"}
+  - {icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
+  # - {icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
