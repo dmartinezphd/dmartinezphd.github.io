@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "tags.html", title: "tags"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: You accept Privacy Policy by entering site, url: "/privacy.html"}
+  - {title: You accept Privacy Policy by entering site, url: "/privacy.md"}
   - {title: Mail, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
   - {title: Github, icon: github, url: "https://github.com/dmartinezphd"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
