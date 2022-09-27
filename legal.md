@@ -1,5 +1,7 @@
 ---
 layout: page
-permalink: /tags/
+permalink: /legal/
 title: Legal Stuff
 ---
+
+#Legal
