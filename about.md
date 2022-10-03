@@ -4,22 +4,21 @@ permalink: "/about/"
 layout: page
 ---
 
-## Daniel M. Martínez, PhD
+### Daniel M. Martínez, PhD
+
+<img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
 
 <blockquote class="full-width"><p>Engineer, Scientist, Author</p></blockquote>
-<img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
 
 I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. 
 
-All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. 
+All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC Random Walk Research. I'm particularly (but not exclusively) interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
-Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC Random Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on fundamental research, environmental sensor technology, and data science. 
+### News
+2022/09 --- Left USM and Formed Random Walk Research LLC
 
-I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
-My greatest trait is that I am able to find solutions to problems that help get a project "unstuck." 
-
-## Relevant Education
+### Relevant Education
 
 BS Chemical Engineering; University of Rochester (1999)
 
