@@ -6,11 +6,10 @@ layout: page
 
 ## Daniel M. Martínez, PhD
 
-<p class="full-width no-margin"><img src="/assets/images/profile4.jpg" alt="DMM" width="150" align="right"/></p> 
+<p><img src="/assets/images/profile4.jpg" alt="DMM" width="150"/></p> 
 
 <blockquote class="full-width"><p>Engineer, Scientist, Author</p></blockquote>
 
-<br><br><br><br><br><br><br>
 I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. 
 
 All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. 
