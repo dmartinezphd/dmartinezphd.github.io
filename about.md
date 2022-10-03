@@ -31,10 +31,10 @@ PhD Chemical Engineering; University of Rochester (2007)
 ### Relevant Experience
 
 #### NASA Goddard Space Flight Center (2000-2007)
-* After my 1-year PhD residency requirement at UR, I spent the balance of my PhD doing research at NASA-Goddard's Code 691 (Astrochemistry), first as a Graduate Student Researchers Program Fellow and then as a NASA Co-Op, which was an immediate path to federal employment
+* After my 1-year PhD residency requirement at UofR, I spent the balance of my PhD doing research at NASA-Goddard's Code 691 (Astrochemistry), first as a Graduate Student Researchers Program Fellow and then as a NASA Co-Op, which was an immediate path to federal employment
 
 #### University of Rochester and AHEAD Energy Corp (2007 - 2008)
-* I left NASA in 2007 to start a family with my wife back in Rochester. During that year I worked with Ben Ebenhack, a lecturer at UR and founder of AHEAD Energy, and that is where I began my journey studying energy systems, sustainability and energy transition theory. 
+* I left NASA in 2007 to start a family with my wife back in Rochester. During that year I worked with Ben Ebenhack, a lecturer at UofR and founder of AHEAD Energy, and that is where I began my journey studying energy systems, sustainability and energy transition theory. 
 
 #### University of Southern Maine (2008 - 2022)
 * After one year back in Rochester, we decided to move to Maine. I connected with USM's Department of Environmental Science and started out as a part-time research professor. I eventually received a full-time offer that was renewed until I applied for and received a promotion to Associate Research Professor.
