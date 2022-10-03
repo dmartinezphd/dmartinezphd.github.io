@@ -15,7 +15,8 @@ I am a chemical engineer, environmental scientist, and published author, with a 
 All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC, Random Walk Research. I'm particularly (but not exclusively) interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
 ### News
-* 2022/09 --- Left USM and Formed Random Walk Research LLC
+* 2022/09 --- I Left USM and Formed Random Walk Research LLC
+* 2019/05 --- [Energy Efficiency Concepts and Calculations](https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5) Book Released
 
 
 ### Relevant Education
