@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-### Daniel M. Martínez, PhD
+### About me, Daniel M. Martínez, PhD
 
 <img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
 
