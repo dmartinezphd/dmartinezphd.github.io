@@ -17,7 +17,7 @@ All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a
 ### News
 * 2022/09 --- I Left USM and Formed Random Walk Research LLC
 * 2021/12 --- Poster accepted: _Small Camera Systems for Space-based Cube Satellite Earthshine Measurements._ AGU Fall Meeting 2021, held in New Orleans, LA, 13-17 December 2021, id. GH15C-0620. Bibcode: [2021AGUFMGH15C0620N](https://ui.adsabs.harvard.edu/abs/2021AGUFMGH15C0620N/abstract)
-* 2019/05 --- Book Released! [Energy Efficiency Concepts and Calculations](https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5) 
+* 2019/05 --- Book Released: _Energy Efficiency Concepts and Calculations._ It was published by Elsevier Science. [Publisher Link](https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5) 
 
 
 ### Relevant Education
@@ -31,10 +31,10 @@ PhD Chemical Engineering; University of Rochester (2007)
 ### Relevant Experience
 
 #### NASA Goddard Space Flight Center (2000-2007)
-* After my 1-year PhD residency requirement at UofR, I spent the balance of my PhD doing research at NASA-Goddard's Code 691 (Astrochemistry), first as a Graduate Student Researchers Program Fellow and then as a NASA Co-Op, which was an immediate path to federal employment
+* After my 1-year PhD residency requirement at UofR, I spent the balance of my PhD doing research at NASA-Goddard's Code 691 (Astrochemistry), first as a Graduate Student Researchers Program Fellow and then as a NASA Co-Op, which was an immediate path to federal employment.
 
 #### University of Rochester and AHEAD Energy Corp (2007 - 2008)
-* I left NASA in 2007 to start a family with my wife back in Rochester. During that year I worked with Ben Ebenhack, a lecturer at UofR and founder of AHEAD Energy, and that is where I began my journey studying energy systems, sustainability and energy transition theory. 
+* I left NASA in 2007 to start a family with my wife back in Rochester. During that year I worked with Ben Ebenhack, a lecturer at UofR and founder of AHEAD Energy, and that is where I began my journey studying energy systems, sustainability and energy transition theory. It's also where I taught my first class, _Sifting Through Trash: Myths and Facts of the Energy Crisis._
 
 #### University of Southern Maine (2008 - 2022)
 * After one year back in Rochester, we decided to move to Maine. I connected with USM's Department of Environmental Science and started out as a part-time research professor. I eventually received a full-time offer that was renewed until I applied for and received a promotion to Associate Research Professor.
