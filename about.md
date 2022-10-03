@@ -6,6 +6,7 @@ layout: page
 
 ## Hola, it's me, Daniel.
 
+![DMM](assets/images/profile4.jpg)
 <img src="assets/images/profile4.jpg" alt="DMM Pic" width="150">
 
 I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. All of my degrees are in Chemical Engineering (BS/MS/PHD) and have benefited from a diverse career as a NASA scientist, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC Random Walk Research. While teaching was rewarding, my heart is in research and development and I want to spend this part of my career focusing on fundamental research, environmental sensor technology, and data science. I'm particularly interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
