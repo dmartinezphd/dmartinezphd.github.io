@@ -6,9 +6,8 @@ layout: page
 
 ## Daniel M. Martínez, PhD
 
-<p><img src="/assets/images/profile4.jpg" alt="DMM" width="150"/></p> 
-
 <blockquote class="full-width"><p>Engineer, Scientist, Author</p></blockquote>
+<img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
 
 I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. 
 
