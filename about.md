@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-### About me
+### About Me
 
 <img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
 
