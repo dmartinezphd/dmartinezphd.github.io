@@ -1,7 +1,7 @@
 title: "Further Study Required"
 author: "dmartinezphd"
 #description: "<b style=\"color: #f45;\">Daniel's blog (Further Study Required) and bio</b>"
-description: "Daniel M. Martínez, PhD<br>Further Study Required<br>Blog and Bio<br>©2022 All rights reserved.<br><a href="https://www.w3schools.com/">Visit W3Schools.com!</a>"
+description: "Daniel M. Martínez, PhD<br>Further Study Required<br>Blog and Bio<br>©2022 All rights reserved.<br>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
