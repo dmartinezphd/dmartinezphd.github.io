@@ -4,11 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-### About me, Daniel M. Martínez, PhD
+### About me
 
 <img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
 
-<blockquote class="full-width"><p>Engineer, Scientist, Author</p></blockquote>
+<blockquote class="full-width"><p>Daniel M. Martínez, PhD</p><p>Engineer, Scientist, Author</p></blockquote>
 
 I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. 
 
