@@ -22,10 +22,10 @@ All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a
 
 ### Relevant Education
 
-#### Undergraduate
+**Undergraduate**<br>
 BS Chemical Engineering; University of Rochester (1999)
 
-#### Graduate
+**Graduate**<br>
 PhD Chemical Engineering; University of Rochester (2007)
 
 ### Relevant Experience
