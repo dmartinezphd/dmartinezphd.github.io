@@ -4,4 +4,4 @@ title: "Tag: tech"
 tag: tech
 ---
 
-{% include archive.html %}
+{% include tagarchive.html %}
