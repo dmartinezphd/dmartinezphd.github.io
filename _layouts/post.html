@@ -3,10 +3,10 @@ layout: default
 ---
 <article>
   {% include meta.html post=page %}
-  <span>[&nbsp;
+  <span>[
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}" style="text-decoration:none;"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    <a href="/tag/{{ tag_name }}" style="text-decoration:none;"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 ]</span>
   {{ content }}
