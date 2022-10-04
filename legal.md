@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /legal/
-title: "Legal Stuff"
+title: "Legal Stuff (Copyright, Notices, Permissions, Privacy)"
 ---
 
 # Copyright © 2022 Daniel M. Martinez, PhD. All rights reserved.
