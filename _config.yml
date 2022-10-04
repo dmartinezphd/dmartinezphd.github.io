@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   # - {file: "projects.md", title: "projects"}
   - {file: "about.md", title: "About Me"}
+  - {file: "projectsandteaching.md", title: "P & T"}
   - {file: "legal.md", title: "Legal"} 
   # - {file: "tags.html", title: "tags"}
 
