@@ -10,13 +10,13 @@ layout: page
 
 <blockquote class="full-width"><p>Daniel M. Martínez, PhD<br>Engineer, Scientist, Author</p></blockquote>
 
-I am a chemical engineer, environmental scientist, and published author, with a passion for research and writing about thermodynamics, environmental science, technology, and data analysis. 
+I am a chemical engineer by schooling, an environmental scientist by experience, and published author by sheer will, with a passion for research and writing about thermodynamics, environmental science & technology, and data analysis. 
 
-All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC, Random Walk Research. I'm particularly (but not exclusively) interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
+All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work, and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC, Random Walk Research. I'm particularly (but not exclusively) interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
 ### News
 * 2022/09 --- I Left USM and Formed Random Walk Research LLC
-* 2021/12 --- Poster accepted: _Small Camera Systems for Space-based Cube Satellite Earthshine Measurements._ AGU Fall Meeting 2021, held in New Orleans, LA, 13-17 December 2021, id. GH15C-0620. Bibcode: [2021AGUFMGH15C0620N](https://ui.adsabs.harvard.edu/abs/2021AGUFMGH15C0620N/abstract)
+* 2021/12 --- Poster accepted: _Small Camera Systems for Space-based Cube Satellite Earthshine Measurements._ AGU Fall Meeting 2021, held in New Orleans, LA, 13-17 December 2021, id. GH15C-0620. [Bibcode](https://ui.adsabs.harvard.edu/abs/2021AGUFMGH15C0620N/abstract)
 * 2019/05 --- Book Released: _Energy Efficiency Concepts and Calculations._ It was published by Elsevier Science. [Publisher Link](https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5) 
 
 
@@ -38,6 +38,9 @@ PhD Chemical Engineering; University of Rochester (2007)
 
 #### University of Southern Maine (2008 - 2022)
 * After one year back in Rochester, we decided to move to Maine. I connected with USM's Department of Environmental Science and started out as a part-time research professor. I eventually received a full-time offer that was renewed until I applied for and received a promotion to Associate Research Professor.
+
+#### Random Walk Research LLC (2022 - present)
+* I established Random Walk Research to focus on my passion for fundamental research, applied R&D, and writing. My past experience has provided me a unique skillset to tackle science, engineering, technology, and policy problems. Send me an [email](mailto:daniel@randomwalkresearch.com) to discuss how Random Walk Research can help you with your project. 
 
 ### Useful Skills I Picked Up During My Journey
 - Data analysis and Visualization with MS Excel (a way under-rated skill in my opinion)
