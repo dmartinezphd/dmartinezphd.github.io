@@ -4,7 +4,7 @@ permalink: /legal/
 title: "Legal Stuff (Copyright, Notices, Permissions, Privacy)"
 ---
 
-# Copyright © 2022 Daniel M. Martinez, PhD. All rights reserved.
+# Copyright © 2022 Daniel M. Martínez, PhD. All rights reserved.
 
 # Notices
 Knowledge and best practices in the fields discussed on this site are constantly changing. As new research and experience broaden understanding, changes in research methods, professional practices, or treatments may become necessary.
