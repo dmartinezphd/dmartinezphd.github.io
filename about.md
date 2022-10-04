@@ -17,7 +17,7 @@ All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a
 ### News
 * 2022/09 --- I Left USM and Formed Random Walk Research LLC
 * 2021/12 --- Poster accepted: _Small Camera Systems for Space-based Cube Satellite Earthshine Measurements._ AGU Fall Meeting 2021, held in New Orleans, LA, 13-17 December 2021, id. GH15C-0620. <a href="https://ui.adsabs.harvard.edu/abs/2021AGUFMGH15C0620N/abstract" target="_blank">Bibcode</a>
-* 2019/05 --- Book Released: _Energy Efficiency Concepts and Calculations._ It was published by Elsevier Science. [Publisher Link](https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5) 
+* 2019/05 --- Book Released: _Energy Efficiency Concepts and Calculations._ It was published by Elsevier Science. [Publisher Link]() <a href="https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5" target="_blank">Publisher Link</a>
 
 
 ### Relevant Education
