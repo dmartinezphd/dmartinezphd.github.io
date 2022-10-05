@@ -19,12 +19,12 @@ minimal: true           # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {file: "index.md", title: "Home"}
-  # - {file: "projects.md", title: "projects"}
+  - {file: "tags.html", title: "Tags"}
   - {file: "about.md", title: "About Me"}
   - {file: "projects.md", title: "Projects"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "legal.md", title: "Legal"} 
-  # - {file: "tags.html", title: "tags"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   # - {title: You accept Privacy Policy by entering site, url: "https://dmartinezphd.github.io/privacy/"}
