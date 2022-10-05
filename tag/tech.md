@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tagpage
 title: "Tag: tech"
 tag: tech
 ---
