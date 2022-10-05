@@ -41,9 +41,8 @@ PhD Chemical Engineering; University of Rochester (2007)
 
 ### Useful Skills I Picked Up During My Journey
 - Data analysis and Visualization with MS Excel (a way under-rated skill in my opinion)
-- Writing book-length manuscripts
+- Technical Writing
 - Literature Review
-- Proposal Writing
 - Project Management
 - Presenting and/or teaching diverse subject matter to informed and uninformed audiences
 - Programming (BASIC, MathCad, a little C and FORTRAN)
