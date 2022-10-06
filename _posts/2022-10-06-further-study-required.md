@@ -38,10 +38,10 @@ These definitions also lead us to a larger question within in the context of rep
 
 Here's an illuminating paragraph that she writes in this book chapter:
 
-> This cynical, or at least exasperated, response to revisions rests partly on mistaken assumptions about scientific inquiry and partly on unfortunate distortions wrought by the marketplace, for which science gets blamed. The first type of mistake occurs when overly generic statements of scientific results make it look as if new research contradicts old research when it does not. Second, there is a mistaken belief that revision is an indication of something bad or unreliable about science. Finally, because human beings crave simple, definite answers and sure solutions, journalists are encouraged to bring satisfaction by overstating results, and
+> "This cynical, or at least exasperated, response to revisions rests partly on mistaken assumptions about scientific inquiry and partly on unfortunate distortions wrought by the marketplace, for which science gets blamed. The first type of mistake occurs when overly generic statements of scientific results make it look as if new research contradicts old research when it does not. Second, there is a mistaken belief that revision is an indication of something bad or unreliable about science. Finally, because human beings crave simple, definite answers and sure solutions, journalists are encouraged to bring satisfaction by overstating results, and
 companies stand to make a profit by overselling tentative and limited conclusions about efficacy. Overstated conclusions are more likely to turn out false in the course of time and thus contribute to a mistaken impression of dramatic revision on the part of scientists. Scientists do revise claims. However, they revise less dramatically and less often than it appears."
 
-That's a good paragraph. That insight also makes it troublesome when someone proclaims that they "follow the science" or "believe in science." What that person means is that they believe in scientific inquiry or perhaps the body of knowledge that leads to a new finding or discovery. But even that is troublesome, because often people are responding to an application of a scientific finding, which puts one into the realm of engineering and technology. Once you do that, you now must qualify your enthusiasm for science with the risk/benefit associated with that application. And if that application is new to the world, then further study will be required to see how it interfaces with the human endeavor. (See what I did there?)
+That's a good paragraph. That insight also makes it troublesome when someone proclaims that they "follow the science" or "believe in science." What that person means is that they believe in scientific inquiry or perhaps the body of knowledge that forms the foundation of a new finding or discovery. But even that is troublesome, because often people are responding to an application of a scientific finding, which puts one into the realm of engineering and technology. Once you do that, you now must qualify your enthusiasm for science with the risk/benefit associated with that application. And if that application is new to the world, then further study will be required to see how it interfaces with the human endeavor. (See what I did there?)
 
 OK, well I think that's a good stopping point for this blog entry. If you remain interested in what I have to say, please keep coming back to the Further Study Required blog! I'll mostly talk about the following topics:
 
@@ -51,6 +51,7 @@ OK, well I think that's a good stopping point for this blog entry. If you remain
 - Environmental Data Science and Analysis
 - Atmospheric Science
 - Cubesats
+- Research Methods
 - Academia
 
 I'll also probably talk about other subjects that interest me, in general. I'm sure entries will range from insightful to mundane. Feel free to choose what you read. My goal is to write 1 - 2 entries per week for the foreseeable future.
