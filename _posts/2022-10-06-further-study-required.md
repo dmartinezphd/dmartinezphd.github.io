@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Further study required"
 layout: post
 tags: unfiled
 ---
