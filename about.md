@@ -10,6 +10,9 @@ layout: page
 
 <blockquote class="full-width"><p>Daniel M. Martínez, PhD<br>Engineer, Scientist, Author</p></blockquote>
 
+<!--[<img src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1559871045027-2XSVXYWSZD9POBO0QOVD/buy-me-a-coffee-button.png" width="100"/>]-->
+<!--(https://www.buymeacoffee.com/user)-->
+
 I am a chemical engineer by schooling, an environmental scientist by experience, and published author by sheer will. I have a passion for research and writing about environmental science & technology, data analysis, and thermodynamics. All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work, and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC, Random Walk Research. I'm particularly (but not exclusively) interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
 ### News
