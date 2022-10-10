@@ -6,7 +6,7 @@ layout: page
 
 ## About Me
 
-<img src="/assets/images/profile4.jpg" alt="DMM" width="150"/>
+<img src="/assets/images/profile4.jpg" alt="DMM" width="150" align="left" />
 
 <blockquote class="full-width"><p>Daniel M. Martínez, PhD<br>Engineer, Scientist, Author</p></blockquote>
 
