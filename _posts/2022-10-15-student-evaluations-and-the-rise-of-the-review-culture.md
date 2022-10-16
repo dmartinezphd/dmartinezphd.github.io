@@ -64,7 +64,7 @@ A research paper that I always like to reference when taking issue with student 
 > **Conclusions**: The provision of chocolate cookies had a significant effect on course evaluation. These findings question the validity of SETs and their use in making > widespread decisions within a faculty.
 > 
 
-I mean, there you have it, free access to 500 grams of cookies and your chances at good evaluations go up! I’m sure more studies would confirm this. I even did an unscientific version of this one year pre-Covid. I brought in donut holes and I had some pretty decent evaluations that year. There has to be a better way to do course evaluation that does not involve such a strong weight placed on evaluations. Especially for 
+I mean, there you have it, free access to 500 grams of cookies and your chances at good evaluations go up! I’m sure more studies would confirm this. I even did an unscientific version of this one year pre-Covid. I brought in donut holes and I had some pretty decent evaluations that year. There has to be a better way to do course evaluation that does not involve such a strong weight placed on evaluations.
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/29956364/" target="_blank"> [Click for reference url] </a>
 
