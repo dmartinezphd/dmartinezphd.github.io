@@ -3,6 +3,7 @@ title:  "Student Evaluations and the Rise of the Review Culture"
 layout: post
 tags: academia
 ---
+![Banner](/assets/images/FSR-Banner.png)
 
 I have been a little preoccupied lately, trying to get my independent research venture from concept to positive cash flow while also grieving the unexpected loss of my father. 
 
