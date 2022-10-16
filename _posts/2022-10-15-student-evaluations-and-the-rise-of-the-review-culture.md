@@ -1,5 +1,5 @@
 ---
-title:  "Student Evaluations and the Rise of Review Culture"
+title:  "Student Evaluations and the Rise of the Review Culture"
 layout: post
 tags: academia
 ---
