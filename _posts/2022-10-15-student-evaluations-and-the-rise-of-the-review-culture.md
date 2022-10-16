@@ -1,5 +1,3 @@
-## Student evaluations and the rise of the review culture
-
 I have been a little preoccupied lately, trying to get my independent research venture from concept to positive cash flow while also grieving the unexpected loss of my father. 
 
 Fernando was a hard worker and even tougher man – as a bristly ex-Marine, what should you expect? But, he had a huge heart. He actually would give you the shirt off his back if you needed it, probably while also yelling at you for getting into a situation where you needed his shirt in the first place. 
