@@ -4,8 +4,6 @@ layout: post
 tags: unfiled
 ---
 
-<h1 align="center"> FURTHER STUDY REQUIRED </h1>
-
 Do a google scholar search with keywords "further study required." You'll find a plethora of papers that use that phrase or a close variation of it. Here's just a very small sampling of ones that I found in my most recent search:
 
 "...require further study." 
