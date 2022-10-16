@@ -59,7 +59,7 @@ A research paper that I always like to reference when taking issue with student 
 > 
 I mean, there you have it, free access to 500 grams of cookies and your chances at good evaluations go up! I’m sure more studies would confirm this. I even did an unscientific version of this one year pre-Covid. I brought in donut holes and I had some pretty decent evaluations that year. There has to be a better way to do course evaluation that does not involve such a strong weight placed on evaluations. Especially for 
 
-[Click for Study URL](https://pubmed.ncbi.nlm.nih.gov/29956364/)
+<a href="https://pubmed.ncbi.nlm.nih.gov/29956364/" target="_blank"> [Click for reference url] </a>
 
 ## Students as Consumers
 
@@ -78,7 +78,7 @@ On the academic rigor side of the issue, if we believe we have a choice in what 
 
 And I tend to agree with the notion that weed-out course aren’t designed to be weed out courses. They’re just hard. Differential equations is hard, organic chemistry is hard. Can an instructor make your learning experience even more challenging? Absolutely. But, ultimately, if you are taking classes that require time, effort, and brain power much greater than other courses, then it’s likely to be a tough A or even B. Just as world class athletes need to put in the time to be good enough to be world class, one would expect world class physicians also need to meet a rigorous threshold. And the beauty of the USA is, you can still do something pretty fantastic even if you don’t get into medical school. The possibilities are unlimited, even with the obvious discrepancies inherent in the education system due to inequalities of all kinds.
 
-Well, I’ve written way too much as it is. If you are interested in reading more on the “Student as Customer” dynamic, hit the search button and prepare to read a lot.   
+Well, I’ve written way too much as it is. If you are interested in reading more on the “Student as Customer” dynamic, hit the search button and prepare to read a lot. Oh, and also check out this nugget I found on the <a href="https://www.brightpearl.com/rise-of-the-review-culture" target="_blank"> Rise of Review Culture </a>, an industry report by brightpearl and trustpilot. It explains a lot about the culture of students and parents academia is interacting with now.   
 
 
    
