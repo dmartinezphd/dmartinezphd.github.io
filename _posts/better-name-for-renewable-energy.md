@@ -16,7 +16,7 @@ Our use of these finite resources is almost entirely dictated by the amount of m
 
 What this ultimately means is that the entire nonrenewable mineral stock on earth is, theoretically, “available at once.” Thinking of a bathtub tends to offer a useful conceptualization. All the oil that we’ll ever find is stored within the bathtub, or the sum of all reservoirs. We can add to the bathtub with new discoveries or better recovery technology from past discoveries, but ultimately there is a finite amount of oil stored in Earth’s crust. If we continue to drain the tub, it will eventually empty out.
 
-[Image]
+![bathtub](/assets/bathtub.png)
 
 So, civilization’s consumption of these resources is controlled by the total amount of mineral deposits known to be “in the ground” and available for exploitation, as well as the technical, economic, and environmental factors that allow for their practical and continued extraction. The simple depiction below is another helpful way to think of how humanity is using the fossil fuel resource supply. 
 
