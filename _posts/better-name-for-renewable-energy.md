@@ -16,11 +16,11 @@ Our use of these finite resources is almost entirely dictated by the amount of m
 
 What this ultimately means is that the entire nonrenewable mineral stock on earth is, theoretically, “available at once.” Thinking of a bathtub tends to offer a useful conceptualization. All the oil that we’ll ever find is stored within the bathtub, or the sum of all reservoirs. We can add to the bathtub with new discoveries or better recovery technology from past discoveries, but ultimately there is a finite amount of oil stored in Earth’s crust. If we continue to drain the tub, it will eventually empty out.
 
-![bathtub](/assets/bathtub.png)
+![bathtub](/assets/images/bathtub.png)
 
 So, civilization’s consumption of these resources is controlled by the total amount of mineral deposits known to be “in the ground” and available for exploitation, as well as the technical, economic, and environmental factors that allow for their practical and continued extraction. The simple depiction below is another helpful way to think of how humanity is using the fossil fuel resource supply. 
 
-[image]
+![bathtub](/assets/images/stock_limited_fig.png)
 
 Starting at time t1, we have a known supply that we can extract. These are resources we have in reserve that can be extracted right now. As time progresses to t2, t3, etc, the supply is reduced by the difference in the rate of extraction from the rate of additions. The big arrow at the bottom is our extraction flow and is really only limited by our need/want for the resource. The smaller “additions” arrow is also important because we can also add to the reserves supply from the estimated total resource base (i.e. all the stuff we can theoretically extract but have yet to be placed into reserves and ready for immediate extraction) by making new discoveries, or by improving recovery via better engineering technologies and practices. We can also extend reserves availability by consuming less via efficiency enhancements or conservation practices. Basically, we can slow the draw down by being more efficient with how we use the energy source or by choosing to use less altogether.
 
@@ -34,7 +34,7 @@ What is unsettling about this, and as Smil correctly points out, is that this ac
 
 In contrast to fossil energy, “renewables” (there goes that word again), particularly solar and wind energy, are best described as flow-limited energy supplies. That is, our consumption of these resources is controlled by the flow of sunlight or flow of wind onto the energy collector (e.g., a panel or a turbine). There are no reserves of sunlight or wind from which to draw, but rather the energy must be used and/or converted immediately as it is collected from its practically nondepletable supply (i.e., the sun or wind); however, it is limited to the incident flow rate, as depicted below. 
 
-[Image]
+![bathtub](/assets/images/flow_limited_fig.png)
 
 The valve in the figure above is meant to convey that when the sun is not shining or the wind is not blowing sufficiently over Earth-based collectors, no substantial energy will be available to utilize. The valve shuts off and the available supply is no longer available. The benefit of relying on solar and wind energy flows is that the amount of energy used at any given time has no direct effect on how much is available in the future. That is, the supply does not change. The penalty of using this type of supply, however, is that we are subject to the relative availability of the originating supply at any given moment. If the sun is not shining or the wind is not blowing, the valve is shut and we cannot use them directly.
 
@@ -50,7 +50,7 @@ Meadows makes a key point in Thinking in Systems about flow-limited renewable en
 
 Photosynthesis, the hydrologic cycle, and the radioactive decay that leads to geothermal heating are all continuous earth-bound processes and an annual energy flux that can be harnessed from these processes can be plausibly estimated for these sources. In my first book I wrote with Ben, we summarized these values using a 2010 base case fossil fuel usage, which I share below. 
 
-[Image]
+![bathtub](/assets/images/thepathtableoneone.png)
 
 It’s important to note that the most readily available large-scale energy – hydropower, biomass, and geothermal – have been harnessed by humanity in a manner that is more similar to how we utilize the fossil fuels. That is, we tap accumulated, short-term stocks of these certain types of renewable energy that can and do replenish at rates much quicker than fossil fuel replenishment rates. However, there are two caveats. First, the quantity of the accumulated stocks is much smaller than the accumulated stocks of the fossil fuels. Second, it is possible to deplete the stocks being tapped to a point where the rate of depletion of these finite accumulations exceeds the flux of the process to replenish those stocks. Thus, the energy resources tapped from these inherent processes—biomass energy, stored hydropower, and geothermal energy—are stock and flow-limited energy. They possess a combination of the advantages and disadvantages of both flow and stock-based resources. 
 
