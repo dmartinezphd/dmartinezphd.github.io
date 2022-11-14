@@ -36,7 +36,7 @@ For reference, this is a physical example of my Earthshine 2U proof of concept p
 
 ![Earthshine Prototype](/assets/images/earthshine-protoype.png)
 
-Showing this picture also helps solidify the point that a CubeSat is a specification or (“spec”), not off-the-shelf hardware. You are the developer and can design your own frame specification and then pack in whatever you want as long as it fits into the 10 x 10 x 10 cube, or some multiple. Once a CubeSat is designed, constructed, tested, licensed, and launched, CubeSats are released into orbit from CubeSat deployers, sometimes directly from the ISS, other times from a small vessel that gets launched from the ISS.  
+Showing this picture also helps solidify the point that a CubeSat is a specification or (“spec”), not off-the-shelf hardware. You are the developer and can design your own frame specification and then pack in whatever you want as long as it fits into the 10 x 10 x 10 cube, or some multiple. Once a CubeSat is designed, constructed, tested, licensed, and launched, CubeSats are released into orbit from CubeSat deployers, sometimes directly from the ISS, other times from a small vessel that gets launched from the ISS. (Image source: NASA) 
 
 ![ISS CubeSat Deployer](https://www.nasa.gov/sites/default/files/iss040e102425.jpg)
 
@@ -64,7 +64,7 @@ Check out this animated explainer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=P_8ZEAPrrHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-and this engineer profile:
+And this engineer profile:
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mISBm9h9Xnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -73,7 +73,7 @@ That was awesome, right? The MarCO mission was a prime example of the seemingly 
 ### other points
 Other key points to keep in mind about CubeSat projects are: 1) CubeSat projects often involve engineering, assembly, and integration and 2) Launching a CubeSat is the “easiest” part (because you don’t do it), but it’s probably the most expensive especially for 1U college or amateur projects. As you’ll find in the CubeSat 101 resource, you can apply to have your CubeSat added to a scheduled NASA and/or ISS manifest for a free ride.
 
-The CubeSat Mission
+## The CubeSat Mission
 Once you have a basic working understanding of the components of a CubeSat, you can start thinking about developing a mission and then looking for the components and people needed to carry it out. Keep in mind the following points, mantra if you will, when deciding to pursue a Cubesat project:
 
 1. Have a clearly defined mission
@@ -84,13 +84,13 @@ Once you have a basic working understanding of the components of a CubeSat, you 
 6. Pray for a long enough life to achieve the mission goals
 7. If 4 – 6 fail, claim success anyway by saying you learned a lot (haha)
 
-mission goals
+### mission goals
 Given these parameters, what mission goals are you going to tackle? What do you want the CubeSat to do? To help answer these questions, consider breaking down possible options into 3 main categories:
 - Science Mission - measure stuff
 - Engineering Mission - test hardware or software
 - Amateur Missions - low and high concepts, anything you can think of and get funding for
 
-science missions
+### science missions
 On a science mission, your CubeSat will measure something. Two main types are:
 1. pointing
 2. in-situ 
@@ -102,23 +102,19 @@ A good case study on high-precision pointing on a CubeSat can be found here (NAS
 In-situ missions are much easier to complete – you use sensors that take measurements of a region without the pointing requirement. So, measurements like temperature, electric and magnetic fields, light from the sun, tracking orbital position, and similar measurements are very much in reach.
 
 
-engineering missions
+### engineering missions
 On an engineering mission, you can use the CubeSat platform to do component testing. For example, you can test out new hardware and measure how it performs and assess its viability as a next generation spacecraft replacement. You can also test next generation hardware or software improvements for power systems and management, positioning methods, radio communications, etc. Another area of interest lies in small-scale testing of new propulsion systems such as solar sails. The MarCO mission was considered an engineering test mission, for example, because of the antenna array that was designed to complete the mission. The New Moon Explorer (NME) robotic mission concept would be another. Shout out to my former NASA supervisor Joe Nuth for letting me know about this cool project. (https://ntrs.nasa.gov/api/citations/20180006399/downloads/20180006399.pdf)
 
-amateur missions
+### amateur missions
 On an amateur mission, you can use the CubeSat platform to do a lot of cool projects and you don’t typically have to worry about mission length, since the value mostly lies in the exercise of constructing, testing, launching, and talking to the satellite. Typically, “hams” use CubeSats to communicate with other “hams” using satellites built with transponders or repeaters on amateur radio frequencies. Many early amateur CubeSat projects were designed only to send a repeating message for ham’s to receive and track. Similarly, many projects gather some simple in-situ measurement and transmit to Earth for ham’s to receive. Most often, amateurs are recruited by university teams to work on science-oriented missions and offer valuable expertise in ground station design and satellite communication. Actually, the amateur community is an irreplaceable resource for ground station communication for satellite operations. See SatNOGS as a shining example.
 
-commercial missions
+### commercial missions
 It is worth adding that there is a growing commercial presence in the CubeSat world. Several companies are using the small satellite platform to provide telecommunication services and for capturing Earth observation imagery. High resolution imagery is valuable to clients in agriculture, city planning, and military to name a few. Planet labs is a good example of the use of CubeSats for commercial applications. 
 
-Where will your CubeSat go?
-Part of mission planning involves placement of the satellite in orbit around Earth. The mission can be limited by your ability to secure a certain altitude and vice versa. Most often your CubeSat will go to Low Earth Orbit (LEO), in a broad band ranging from about 150 km to 600 km (93 miles - 370 miles).
+## Where will your CubeSat go?
+Part of mission planning involves placement of the satellite in orbit around Earth. The mission can be limited by your ability to secure a certain altitude and vice versa. Most often your CubeSat will go to Low Earth Orbit (LEO), in a broad band ranging from about 150 km to 600 km (93 miles - 370 miles). This region coincides with much of the ionosphere and Earth’s magnetic field. This is where most satellites and the ISS reside because it shields objects from the fiercest aspects of the Sun. (See cartoon below depicting relative locations of objects in the lower atmosphere courtesy of the CSA) LEO is about as safe as space can get for a CubeSat. 
 
-INSERT IMAGE
-
-This region coincides with much of the ionosphere and Earth’s magnetic field. This is where most satellites and the ISS reside because it shields objects from the fiercest aspects of the Sun. LEO is about as safe as space can get for a CubeSat. 
-
-INSERT IMAGE
+![CSA LEO](/assets/images/CSA-LEO.png)
 
 A typical LEO has about a 90 minute period, it revolves around Earth once every 90 minutes, doing about 15 orbits per day. Orbits can be nearly circular or highly elliptical, coming closer to Earth at one end of the orbit and then moving far away at the other. Also, CubeSat orbits can be positioned near Earth’s equator (equatorial orbits) or loop from the North to South Poles (polar orbits).
 
