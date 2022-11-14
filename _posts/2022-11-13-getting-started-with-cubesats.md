@@ -4,8 +4,6 @@ layout: post
 tags: space 
 ---
 
-# Getting started with Cubesats 
-
 ## Preamble
 I had never heard of Cubesats until one fateful day in 2019 when the Dean of my (then) college sent out an email to faculty and staff about research project ideas that he would support during the upcoming funding cycle. (He was trying to inspire faculty to think bigger than what he perceived we were used to thinking and to make the institution a hub for “big R” research.) He had recently left the West Coast for Maine and was friends with a retired Berkeley scientist who offered to provide mentorship on the development of a small satellite platform about 40% larger than a Rubik’s Cube. Having had such a memorable experience working at NASA’s Goddard Space Flight Center and loving all things space, I promptly replied to the Dean’s call and expressed interest in working on such a project. 
 
