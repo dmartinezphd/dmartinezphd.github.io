@@ -28,7 +28,7 @@ First-Time CubeSat Developers (https://www.nasa.gov/sites/default/files/atoms/fi
 I’ll share some more useful references at the end of this post but these are the three I used first, for better or worse.
 
 ## What are CubeSats?
-CubeSats fit into a class of small satellites called nanosatellites, ranging from one to 10 kilograms in mass. However, the distinguishing dimension of a CubeSat is volume – CubeSats use a standard size and form factor, measured in units. A "one unit" or "1U" measures 10 cm x 10 cm x 10 cm. So, basically a cube that is a little bigger than the aforementioned Rubik’s Cube. CubeSats are extendable to larger sizes though: 1.5, 2, 3, 6, and even 12U or 24U. See the figure below for a very simplistic depiction of the sizing.
+CubeSats fit into a class of small satellites called nanosatellites, ranging from one to 10 kilograms in mass. However, the distinguishing dimension of a CubeSat is volume – CubeSats use a standard size and form factor, measured in units. A "one unit" or "1U" measures 10 cm x 10 cm x 10 cm. So, basically a cube that is a little bigger than the aforementioned Rubik’s Cube. CubeSats are extendable to larger sizes though: 1.5, 2, 3, 6, and even 12U or 24U. See the figure below for a very simplistic depiction of the sizing. (Image source: NASA)
 
 ![CubeSat Depiction](https://www.nasa.gov/sites/default/files/thumbnails/image/what_are_cubesats.png)
 
