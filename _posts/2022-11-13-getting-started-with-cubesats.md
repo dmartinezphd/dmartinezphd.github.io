@@ -7,11 +7,11 @@ tags: space
 # Getting started with Cubesats 
 
 ## Preamble
-I had never heard of Cubesats until one fateful day in 2019 when the Dean of my college sent out an email to faculty and staff about research project ideas that he would support during the (then) upcoming funding cycle. (He was trying to inspire faculty to think bigger than what he perceived we were used to thinking and to make the institution a hub for “big R” research -- bless his heart.) He had recently left the West Coast for Maine and was friends with a retired Berkeley scientist who offered to provide mentorship on the development of a small satellite platform about 40% larger than a Rubik’s Cube. Having had such a memorable experience working at NASA’s Goddard Space Flight Center and loving all things space, I promptly replied to the Dean’s call and expressed interest in working on such a project. 
+I had never heard of Cubesats until one fateful day in 2019 when the Dean of my (then) college sent out an email to faculty and staff about research project ideas that he would support during the upcoming funding cycle. (He was trying to inspire faculty to think bigger than what he perceived we were used to thinking and to make the institution a hub for “big R” research.) He had recently left the West Coast for Maine and was friends with a retired Berkeley scientist who offered to provide mentorship on the development of a small satellite platform about 40% larger than a Rubik’s Cube. Having had such a memorable experience working at NASA’s Goddard Space Flight Center and loving all things space, I promptly replied to the Dean’s call and expressed interest in working on such a project. 
 
 I had just finished my third book on energy (energy efficiency, this time around) and was primed to start a new project on air quality monitoring. I had gotten some seed funding and had just co-located some Purple Air sensors with the state’s regulation-grade sensors in Portland. But, the siren call of doing spacecraft development was great enough to distract me from the more realistic endeavor I had set out to do. 
 
-The first red flag I should have paid attention to was that the Dean would be the principal investigator (PI) and I would be a co-investigator (Co-I). Deans are too busy to do anything more than their typical duties, which seems to entail going to and convening a lot of meetings and keeping provosts and department chairs happy enough. And as a former grant proposal reviewer, I know that unless the project is curriculum related it is looked at poorly to have a Dean lead a science investigation. Of course, it did not take long for him to offer me the (insert sarcastic voice) “amazing opportunity for me to be the PI on the project and submit it to NASA’s EPSCoR Research program.” Also, the thought that this project in its first iteration could compete with the flagship research university’s proposal submission is now laughable to me, but our “Earthshine” CubeSat proposal was a scientifically interesting and technically plausible project and I really do think that if it could be completed, would result in some pretty cool science. That submission did not make it out of the state competition but I will give credit to the Dean – his persistence on getting seed funding from the state space grant agency resulted in a good chunk of money headed my way to try to make a solid prototype system. 
+The first red flag I should have paid attention to was that the Dean would be the principal investigator (PI) and I would be a co-investigator (Co-I). Deans are too busy to do anything more than their typical duties, which seems to entail, among other things, going to and convening a lot of meetings and keeping provosts and department chairs happy enough. And as a former grant proposal reviewer, I know that unless the project is curriculum related it is looked at poorly to have a Dean lead a science investigation. Of course, it did not take long for him to offer me the “amazing opportunity for me to be the PI on the project and submit it to NASA’s EPSCoR Research program.” So there it was, I was now the PI and began the task of getting a proposal together with very little help and no other faculty member intertested in the project (at least at that time). The thought that this project in its first iteration could compete with the flagship research university’s proposal submission is now laughable to me, but our “Earthshine” CubeSat proposal was a scientifically interesting and technically plausible project and I really do think that if it could be completed, would result in some pretty cool science. That submission did not make it out of the state competition but I will give credit to the Dean – his persistence on getting seed funding from the state space grant agency resulted in a good chunk of money headed my way to try to make a solid prototype system. 
 
 All of this preamble is here to say that once the seed money came in, I immediately felt that “oh crap” moment that a researcher feels when they realize they are actually going to have to deliver a product within a certain time. And, by starting from scratch, I had to do a lot of reading on what Cubesats are, how they work, how you get them into orbit, how you uplink/downlink (i.e. communicate) with them, and most importantly what kind of team is actually needed to realistically complete such a project. As the project manager, I had to be able to properly communicate to interested individuals the cool factor of the project and why they should work on it. After a lot of reading, I came up with a presentation on Cubesats that forms the basis of this post. 
 
@@ -62,11 +62,11 @@ I can point you to a number of simple but exciting 1U – 3U missions, but why n
 
 Check out this animated explainer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=P_8ZEAPrrHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_8ZEAPrrHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And this engineer profile:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mISBm9h9Xnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mISBm9h9Xnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 That was awesome, right? The MarCO mission was a prime example of the seemingly infinite potential of CubeSats and related technology. Realistically though, most CubeSat missions will be set to do some kind of science and or technology demonstration in low earth orbit and likely will be an Earth-pointing, Earth-observation mission. People often forget that the majority of satellite missions are to learn more about the only planet we know for sure contains life.
 
@@ -118,30 +118,25 @@ Part of mission planning involves placement of the satellite in orbit around Ear
 
 A typical LEO has about a 90 minute period, it revolves around Earth once every 90 minutes, doing about 15 orbits per day. Orbits can be nearly circular or highly elliptical, coming closer to Earth at one end of the orbit and then moving far away at the other. Also, CubeSat orbits can be positioned near Earth’s equator (equatorial orbits) or loop from the North to South Poles (polar orbits).
 
-INSERT IMAGE
+![ESA LEO](/assets/images/ESA-LEO.png)
 
 Larger satellites can also be positioned in Geostationary orbits, moving at the same speed as Earth so they can take the same measurement over the same field of view continuously. Think back to the GOES satellites. 
 
-INSERT IMAGE
+![GOES LEO](/assets/images/NOAA-GOES.png)
 
-Geostationary satellites have been a tremendous asset to our ability to track weather and aerosol movements from space. The information collected from these satellites has applications in agriculture, drought management, air pollution policy, among many others. See below for a movie of sorts collected from GOES that observes aerosols in  the atmosphere. It’s amazing that we have access to this kind of information.
+Geostationary satellites have been a tremendous asset to our ability to track weather and aerosol movements from space. The information collected from these satellites has applications in agriculture, drought management, air pollution policy, among many others. 
 
-https://www.youtube.com/watch?v=oRsY_UviBPE
-
-orbit height determines mission length
+### orbit height determines mission length
 When planning your mission it is important to keep in mind that the higher the orbit, the longer your spacecraft will last. At 250 km, because of drag on the spacecraft, a CubeSat will live between 3 to 16 weeks before it re-enters and burns up. 
 
-Missing Bits: Licensing and Assembling a Team
+## Missing Bits: Licensing and Assembling a Team
 I think I covered much of the basic points that would get you started down a CubeSat rabbit hole, but two key points that also need to be considered are: how to assemble your team and what you have to do do get the proper licenses from Federal entities. 
 
 On the team assembly side of things, I quickly realized that you need a core team of about five people that will make a full investment in the project. You need someone able to design and fabricate prototype parts. You need someone that knows radio and communications, to help design a ground station and to navigate radio testing. They also need to be a licensed ham. You need someone willing to go through the details of the payload and help hash out the science and design of the sensors to accomplish the science. You need someone who knows their way around electronics. You need someone who knows how to code. All of these people really need to be invested. Then you need a cadre of students willing and able to carry out all of the details that are set out by the core group of experts. If I’m recalling correctly, Andrew Klesch said MarCO required about 17 engineers to successfully complete the project and that’s with a lot of experience already had. That’s why a newbie institution should look to collaborate with a veteran or set out to do a very simple “beep-sat” – something that does the bare minimum but likely will work. Even then, the CubeSat failure rate is exceedingly high for university CubeSat projects. I’ve had some exchanges with Michael Swarthout, a professor at St. Louis University, and he keeps track of US-based CubeSat projects. You can go to his website here, but most projects fail with a success rate around 30% last I checked.  
 
 Finally, I’m not going to comment much on the licensing side of things other than you will have to look at NOAA and FCC rules on CubeSats. If your mission involves a camera, you’ll have to check both agencies to see if you need a license. If no camera, then you likely will only have to deal with the FCC. You’ll need to report all of the details about your mission, especially the communications system. It’s not impossible, but it can be arduous. I didn’t get far enough in the Earthshine project to get to the FCC but an over eager former student filled out the NOAA licensing form for me on my behalf and they made me talk to about five representatives on a Zoom call to give them a run down of what we planned to do. It was a little nerve racking for sure.
 
-Concluding Thoughts
+## Concluding Thoughts
 Building a CubeSat for demonstration/simulation purposes is an amazing experience and really beneficial to understand spacecraft design, hardware, and software. But don’t try to build one for an actual orbital science mission unless you have the team, infrastructure, financial and managerial support, and patience needed to complete such a daunting project. Even then, you are at the mercy of the hardware surviving launch and orbital deployment.  
 
 Unfortunately for me, the Earthshine project I set out on was not completed and its future is in question, the result of a number of unforeseeable factors, not the least of which was the Covid-19 pandemic. If given a legitimate shot, I still think it can be done, but it would have to be done at a true research university, where the physical and human infrastructure is in place to carry out the, at times, herculean tasks of building a tiny spacecraft that could survive a launch, begin its mission, and successfully downlink with us. 
-
-
-
