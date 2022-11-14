@@ -34,15 +34,13 @@ CubeSats fit into a class of small satellites called nanosatellites, ranging fro
 
 For reference, this is a physical example of my Earthshine 2U proof of concept prototype. Notice that this 2U isn’t two 1Us attached to each other, but rather a full frame 10 x 10 x 20 cubic centimeters in volume. I’m not sure if we’ll ever get past this stage, so I figure I might as well milk using this photo. (If anyone is interested in continuing the work, please let me know!)
 
-![Picture of Earthshine Prototype](/assets/images/earthshine-protoype.png)
+![Earthshine Prototype](/assets/images/earthshine-protoype.png)
 
-Showing this picture also helps solidify the point that a CubeSat is a specification or (“spec”), not off-the-shelf hardware. You are the developer and can design your own frame specification and then pack in whatever you want as long as it fits into the 10 x 10 x 10 cube, or some multiple. 
+Showing this picture also helps solidify the point that a CubeSat is a specification or (“spec”), not off-the-shelf hardware. You are the developer and can design your own frame specification and then pack in whatever you want as long as it fits into the 10 x 10 x 10 cube, or some multiple. Once a CubeSat is designed, constructed, tested, licensed, and launched, CubeSats are released into orbit from CubeSat deployers, sometimes directly from the ISS, other times from a small vessel that gets launched from the ISS.  
 
-Once a CubeSat is designed, constructed, tested, licensed, and launched, CubeSats are released into orbit from CubeSat deployers, sometimes directly from the ISS, other times from a small vessel that gets launched from the ISS.  
+![ISS CubeSat Deployer](https://www.nasa.gov/sites/default/files/iss040e102425.jpg)
 
-https://www.nasa.gov/sites/default/files/iss040e102425.jpg
-
-Fun Fact: Bob Twiggs, an originator of the CubeSat idea, challenged students from the original CalPoly and Stanford team to make a satellite the size of a Beanie Baby display case. I’ve confirmed with James Cutler (UMichigan) and Michael Swarthout (St. Louis University), this is a true story, but the form factor was a bit too small so they settled on the 10 cubic centimeter standard. It was more of an engineering challenge than one suitable for doing science, at least at first.
+Fun Fact: Bob Twiggs, an originator of the CubeSat idea, challenged students from the original CalPoly and Stanford team to make a satellite the size of a Beanie Baby display case. I’ve confirmed with James Cutler (UMichigan) and Michael Swarthout (St. Louis University) that this is a true story, but the form factor was a bit too small so they settled on the 10 cubic centimeter standard. It was more of an engineering challenge than one suitable for doing science, at least at first.
 
 ### mass specification and comparison
 Recall, CubeSats fall into the class of nanosatellites ranging in mass from 1 kg – 10 kg, but CubeSats typically are not greater than 3 kg (most missions are about 1U to 3U). For reference, a large satellite like GOES-R (https://www.goes-r.gov/mission/mission.html), has a dry mass of 2800 kg and when fueled, is over 5000 kg (> 11 000 lbs!!!) and it’s largest dimension is 6.1 meters (20 ft).
@@ -62,16 +60,17 @@ Of course, the more ambitious your research goal and/or project mission, the mor
 ### eye candy: the MarCO mission
 I can point you to a number of simple but exciting 1U – 3U missions, but why not introduce you to a crowning achievement? I had the amazing fortune of attending a web presentation by Andrew Klesch, the chief engineer for NASA’s super ambitious and altogether awesome Mars Cube One (MarCO) Mission, which were twin communications-relay CubeSats, built by NASA's Jet Propulsion Laboratory. The mission was for these CubeSats to fly by Mars in support of the InSight lander’s entry-descent-and-landing activities. 
 
-INSERT IMAGES?
+Check out this animated explainer:
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=P_8ZEAPrrHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=P_8ZEAPrrHQ
+and this engineer profile:
 
-https://www.youtube.com/watch?v=mISBm9h9Xnw
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mISBm9h9Xnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 That was awesome, right? The MarCO mission was a prime example of the seemingly infinite potential of CubeSats and related technology. Realistically though, most CubeSat missions will be set to do some kind of science and or technology demonstration in low earth orbit and likely will be an Earth-pointing, Earth-observation mission. People often forget that the majority of satellite missions are to learn more about the only planet we know for sure contains life.
 
-other points
+### other points
 Other key points to keep in mind about CubeSat projects are: 1) CubeSat projects often involve engineering, assembly, and integration and 2) Launching a CubeSat is the “easiest” part (because you don’t do it), but it’s probably the most expensive especially for 1U college or amateur projects. As you’ll find in the CubeSat 101 resource, you can apply to have your CubeSat added to a scheduled NASA and/or ISS manifest for a free ride.
 
 The CubeSat Mission
