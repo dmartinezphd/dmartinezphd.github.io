@@ -34,7 +34,7 @@ For reference, this is a physical example of my Earthshine 2U proof of concept p
 
 ![Earthshine Prototype](/assets/images/earthshine-protoype.png)
 
-Showing this picture also helps solidify the point that a CubeSat is a specification or (“spec”), not off-the-shelf hardware. You are the developer and can design your own frame specification and then pack in whatever you want as long as it fits into the 10 x 10 x 10 cube, or some multiple. Once a CubeSat is designed, constructed, tested, licensed, and launched, CubeSats are released into orbit from CubeSat deployers, sometimes directly from the ISS, other times from a small vessel that gets launched from the ISS. (Image source: NASA) 
+Showing this picture also helps solidify the point that a CubeSat is a specification (or “spec”), not off-the-shelf hardware. You are the developer and can design your own frame specification and then pack in whatever you want as long as it fits into the 10 x 10 x 10 cube, or some multiple. Once a CubeSat is designed, constructed, tested, licensed, and launched, CubeSats are released into orbit from CubeSat deployers, sometimes directly from the ISS, other times from a small vessel that gets launched from the ISS. (Image source: NASA) 
 
 ![ISS CubeSat Deployer](https://www.nasa.gov/sites/default/files/iss040e102425.jpg)
 
