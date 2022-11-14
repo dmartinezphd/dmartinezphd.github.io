@@ -30,9 +30,7 @@ I’ll share some more useful references at the end of this post but these are t
 ## What are CubeSats?
 CubeSats fit into a class of small satellites called nanosatellites, ranging from one to 10 kilograms in mass. However, the distinguishing dimension of a CubeSat is volume – CubeSats use a standard size and form factor, measured in units. A "one unit" or "1U" measures 10 cm x 10 cm x 10 cm. So, basically a cube that is a little bigger than the aforementioned Rubik’s Cube. CubeSats are extendable to larger sizes though: 1.5, 2, 3, 6, and even 12U or 24U. See the figure below for a very simplistic depiction of the sizing.
 
-INSERT IMAGE
-
-https://www.nasa.gov/sites/default/files/thumbnails/image/what_are_cubesats.png
+![CubeSat Depiction](https://www.nasa.gov/sites/default/files/thumbnails/image/what_are_cubesats.png)
 
 For reference, this is a physical example of my Earthshine 2U proof of concept prototype. Notice that this 2U isn’t two 1Us attached to each other, but rather a full frame 10 x 10 x 20 cubic centimeters in volume. I’m not sure if we’ll ever get past this stage, so I figure I might as well milk using this photo. (If anyone is interested in continuing the work, please let me know!)
 
