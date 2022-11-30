@@ -1,7 +1,7 @@
-title: "Further Study Required"
-author: "dmartinezphd"
-#description: "<b style=\"color: #f45;\">Daniel's blog (Further Study Required) and bio</b>"
-description: "Daniel M. Martínez, PhD<br><i>Further Study Required</i><br>Blog and Bio<br>©2022 All rights reserved.<br>"
+title: "Random Walk Research LLC"
+author: "rwresearch"
+#description: "<b style=\"color: #f45;\">Random Walk Research LLC</b>"
+description: "Random Walk Research LLC<br>Daniel M. Martínez, PhD<br><i>Further Study Required Blog</i><br>©2022 All rights reserved.<br>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,9 +19,9 @@ minimal: false           # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {file: "index.md", title: "Home"}
-  - {file: "about.md", title: "Me"}
+  - {file: "blog.md", title: "Blog"}
   - {file: "projects.md", title: "Projects"}
-  - {file: "teaching.md", title: "Teaching"}
+  - {file: "teaching.md", title: "Freebies"}
   - {file: "tags.html", title: "Tags"}
   - {file: "legal.md", title: "Legal"} 
   
