@@ -1,4 +1,4 @@
-title: "Random Walk Research LLC"
+title: "[Random Walk Research LLC]"
 author: "rwresearch"
 #description: "<b style=\"color: #f45;\">Random Walk Research LLC</b>"
 description: "Random Walk Research LLC<br><i>Further Study Required Blog</i><br>DMM, PhD ©2022 All rights reserved.<br>"
@@ -18,7 +18,6 @@ minimal: false           # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
-  - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "Me"}
   - {file: "projects.md", title: "Projects"}
   - {file: "teaching.md", title: "Academy"}
