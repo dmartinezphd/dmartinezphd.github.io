@@ -2,8 +2,6 @@
 layout: page
 ---
 
-![Banner](/assets/images/rwr_SMALL1.png)
-
 ## Research
 
 Random Walk Research offers services to help companies, laboratories, and individuals devise, formulate, and execute investigations that remedy deficits in scientific knowledge. 
