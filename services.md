@@ -2,7 +2,9 @@
 layout: page
 title: ""
 ---
-# Random Walk Research Services
+<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="400"/>
+
+# Services
 
 - [Research](/assets/services/research)
 - [Proposal Preparation and Review](/assets/services/proposals)
@@ -12,5 +14,5 @@ title: ""
 
 <br>
 <br>
-<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="500"/>
+
 
