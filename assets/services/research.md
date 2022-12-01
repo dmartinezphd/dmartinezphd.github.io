@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## Research
+# Research
 
 Random Walk Research offers services to help companies, laboratories, and individuals devise, formulate, and execute investigations that remedy deficits in scientific knowledge. 
 
