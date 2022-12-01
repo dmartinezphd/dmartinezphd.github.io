@@ -4,4 +4,4 @@ title: ""
 ---
 ![Banner](/assets/images/rwr_FULL7.png)
 
-Random Walk Research LLC is an environmental research, consulting, and training/education services venture founded by Dr. Daniel M. Martínez. 
+Random Walk Research LLC is an environmental research and consulting services venture founded by Dr. Daniel M. Martínez. 
