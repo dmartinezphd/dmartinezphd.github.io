@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ![Banner](/assets/images/rwr_FULL7.png)
