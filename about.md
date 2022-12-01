@@ -13,11 +13,6 @@ layout: page
 
 I am a chemical engineer by schooling, an environmental scientist by experience, and published author by sheer will. I have a passion for research and writing about environmental science & technology, data analysis, and thermodynamics. All of my degrees are in Chemical Engineering (BS/MS/PHD) and I have navigated a diverse career as a NASA scientist studying how metals condense, as a postdoctoral fellow studying energy-society linkages, and as an environmental science professor doing scholarly work, and teaching courses in energy sustainability, atmospheric science, and environmental quantitative reasoning. Recently, I decided to leave my academic institution to pursue research full time, operating through my LLC, Random Walk Research. I'm particularly (but not exclusively) interested in ground and space-based sensing of the atmosphere and how it impacts weather, climate, and health. 
 
-### News
-* 2022/09 --- I Left USM and formed Random Walk Research LLC
-* 2021/12 --- Poster accepted: _Small Camera Systems for Space-based Cube Satellite Earthshine Measurements._ AGU Fall Meeting 2021, held in New Orleans, LA, 13-17 December 2021, id. GH15C-0620. <br>[--<a href="https://ui.adsabs.harvard.edu/abs/2021AGUFMGH15C0620N/abstract" target="_blank">Bibcode</a>--]
-* 2019/05 --- Book Released: _Energy Efficiency Concepts and Calculations._ It was published by Elsevier Science. <br>[--<a href="https://www.elsevier.com/books/energy-efficiency/martinez/978-0-12-812111-5" target="_blank">Publisher Link</a>--] [--<a href="https://www.amazon.com/Energy-Efficiency-Calculations-Daniel-Martinez/dp/0128121114" target="_blank">Purchase on Amazon</a>--]
-
 ### Relevant Education
 
 **Undergraduate**<br>
