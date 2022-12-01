@@ -11,7 +11,7 @@ title: ""
 With experience in writing and reviewing grant proposals, writing quarterly reports, planning budgets and project timelines for state and federal agency solicitations, Random Walk Research is strategically situated to assist in your organization's grant readiness. Random Walk can assist you with:
 
 - Grant research, finding appropriate RFPs for your organization
-- Project ccoping and timeline planning 
+- Project scoping and timeline planning 
 - Grant prpopsal writing
 - Budget preparation
 - Assembling collaborator lists
