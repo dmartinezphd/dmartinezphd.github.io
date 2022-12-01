@@ -19,11 +19,12 @@ minimal: false           # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {file: "about.md", title: "Me"}
-  - {file: "projects.md", title: "Projects"}
-  - {file: "teaching.md", title: "Academy"}
+  - {file: "services.md", title: "Services"}
+  - {file: "projects.md", title: "Portfolio"}
   - {file: "blog.md", title: "Blog"}
-  - {file: "tags.html", title: "Tags"}
+  - {file: "teaching.md", title: "Goodies"}
   - {file: "legal.md", title: "Legal"} 
+  # - {file: "tags.html", title: "Tags"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: email, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
