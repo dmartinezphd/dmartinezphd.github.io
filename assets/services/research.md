@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![Banner](/assets/images/rwr_FULL7.png)
+![Banner](/assets/images/rwr_SMALL1.png)
 
 ## Research
 
