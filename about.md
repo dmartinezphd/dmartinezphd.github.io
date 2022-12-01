@@ -4,11 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-## About Me
-
 <img src="/assets/images/profile4.jpg" alt="DMM" width="100"/>
 
-<blockquote class="full-width"><p>Daniel M. Martínez, PhD<br>Engineer, Scientist, Author<br>Principal, <a href="https://rwresearch.github.io" target="_blank">Random Walk Research LLC</a></p></blockquote>
+<blockquote class="full-width"><p>Daniel M. Martínez, PhD<br>Engineer, Scientist, Author<br>Principal, Random Walk Research LLC</p></blockquote>
 
 <!--[<img src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1559871045027-2XSVXYWSZD9POBO0QOVD/buy-me-a-coffee-button.png" width="100"/>]-->
 <!--(https://www.buymeacoffee.com/user)-->
