@@ -55,7 +55,6 @@ PhD Chemical Engineering; University of Rochester (2007)
 - Data Science Fundamentals (Python, R, SQL)
 - IOT sensor systems
 - CubeSats
-- How to run a successful research and consulting business
 
 
 
