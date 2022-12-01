@@ -7,6 +7,8 @@ title: ""
 
 # Services
 
+Below is a linked list of services provided by Random Walk Research. Select an option to learn more.
+
 - [Research](/assets/services/research)
 - [Proposal Preparation and Review](/assets/services/proposals)
 - [Air Quality Assessment](/assets/services/aqassessment)
