@@ -3,7 +3,10 @@ layout: page
 title: ""
 ---
 
-# Research
+<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="350"/>
+<hr>
+
+# Research Services
 
 Random Walk Research offers services to help companies, laboratories, and individuals devise, formulate, and execute investigations that remedy deficits in scientific knowledge. 
 
@@ -15,7 +18,7 @@ Specific research services that Random Walk can complete:
 - Conduct internal and external research presentations
 - Publish findings in pertinent highly-regarded academic journals
 
-# Literature Review
+# Literature Review Services
 
 The literature review is a complex summary of other theories, experiments, and ideas of highly experienced professionals. Also, the literature review is a key step in comparing and contrasting novel theories and ideas, as well in providing a compelling and thoroughly researched argument you may need to support new technology R&D, capital investment expenditures, legal disputes, and policy development and implementation.   
 
@@ -26,7 +29,7 @@ Random Walk Research provides the following literature review services:
 - URL links to primary source files that are uncovered during the literature review
 - Summary of literature review results, highlighting key theories and talking points to support (or refute) arguments needed in your final decision
 
-# Data Processing and Analysis
+# Data Processing and Analysis Services
 Random Walk Research specializes in environmental data processing and analysis, including air, energy, weather, and climate. Random Walk offers data processing and analysis services to help with your needs, including:
 
 - Performing appropriate steps on data to verify, organize, transform, integrate, and extract processed data in an appropriate output for subsequent analysis
