@@ -12,7 +12,7 @@ With experience in writing and reviewing grant proposals, writing quarterly repo
 
 - Grant research, finding appropriate RFPs for your organization
 - Project scoping and timeline planning 
-- Grant prpopsal writing
+- Grant propopsal writing
 - Budget preparation
 - Assembling collaborator lists
 - Literature review
