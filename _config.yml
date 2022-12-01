@@ -18,11 +18,11 @@ minimal: false           # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
-  - {file: "about.md", title: "Me"}
   - {file: "services.md", title: "Services"}
   - {file: "portfolio.md", title: "Portfolio"}
   - {file: "blog.md", title: "Blog"}
   - {file: "goodies.md", title: "Goodies"}
+  - {file: "about.md", title: "Me"}
   - {file: "legal.md", title: "Legal"} 
   # - {file: "tags.html", title: "Tags"}
   
