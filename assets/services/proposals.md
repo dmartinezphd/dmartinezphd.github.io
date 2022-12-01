@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: page
+title: ""
 ---
+
+<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="350"/>
+<hr>
 
 # Proposal Preparation and Review
 
