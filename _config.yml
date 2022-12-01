@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {file: "about.md", title: "Me"}
   - {file: "services.md", title: "Services"}
-  - {file: "projects.md", title: "Portfolio"}
+  - {file: "portfolio.md", title: "Portfolio"}
   - {file: "blog.md", title: "Blog"}
-  - {file: "teaching.md", title: "Goodies"}
+  - {file: "goodies.md", title: "Goodies"}
   - {file: "legal.md", title: "Legal"} 
   # - {file: "tags.html", title: "Tags"}
   
