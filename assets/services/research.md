@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](/assets/rwr_FULL7.png)
+![Banner](/assets/images/rwr_FULL7.png)
 
 ## Research
 
