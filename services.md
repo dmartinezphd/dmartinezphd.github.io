@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-### Random Walk Research Services
+# Random Walk Research Services
 
 - [Research](/assets/services/research)
 - [Proposal Preparation and Review](/assets/services/proposals)
