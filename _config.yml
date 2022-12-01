@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: email, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
-  - {title: github, icon: github, url: "https://github.com/dmartinezphd"}
+  - {title: github, icon: github, url: "https://github.com/rwresearch"}
   - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
   # - {icon: rss, url: "/feed.xml"}
 
