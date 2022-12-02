@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Blog"
+title: "Further Study Required Blog"
 ---
 
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Further Study Required Blog" %}
+  {% include archive.html title="Posts sorted by date (<a href="https://dmartinezphd.github.io/tags/"> Sorted by Tag </a>)" %}
 {% endif %}
-
-Does this text show up?
