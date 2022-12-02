@@ -21,9 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "services.md", title: "Services"}
   - {file: "portfolio.md", title: "Portfolio"}
   - {file: "goodies.md", title: "Goodies"}
-  - {file: "blog.md", title: "Blog"}
   - {file: "about.md", title: "Me"}
-  # - {file: "tags.html", title: "Tags"}
+  - {file: "blog.md", title: "Blog"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: email, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
