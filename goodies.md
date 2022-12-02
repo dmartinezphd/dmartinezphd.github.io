@@ -3,6 +3,9 @@ layout: page
 title: ""
 ---
 
+<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="350"/>
+<hr>
+
 # Goodies (In Development)
 Below is a list of items I am offering for free that may be of benefit to you in your studies and personal training. This is for informational and recreational purposes only. (Please read the legal disclaimer located on the site menu regarding content provided on this site.) 
 
