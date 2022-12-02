@@ -9,4 +9,6 @@ title: "<i>Further Study Required Blog</i>"
   {% include archive.html title="Posts sorted by date" %}
 {% endif %}
 
+<hr>
+
 # [Posts sorted by tag](/tags)
