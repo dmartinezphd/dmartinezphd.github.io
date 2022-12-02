@@ -8,3 +8,5 @@ title: "Blog"
 {% else %}
   {% include archive.html title="Further Study Required Blog" %}
 {% endif %}
+
+Does this text show up?
