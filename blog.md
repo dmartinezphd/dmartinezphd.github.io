@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Further Study Required Blog"
+title: "<i>Further Study Required Blog</i>"
 ---
 
 {% if site.show_excerpts %}
@@ -8,3 +8,5 @@ title: "Further Study Required Blog"
 {% else %}
   {% include archive.html title="Posts sorted by date" %}
 {% endif %}
+
+# [Posts sorted by tag](/tags)
