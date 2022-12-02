@@ -30,7 +30,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: email, icon: envelope, url: "mailto:daniel@randomwalkresearch.com"}
   - {title: github, icon: github, url: "https://github.com/rwresearch"}
   - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/dmartinezphd/"}
-  - {title: legal, url: "https://github.com/dmartinezphd/legal"}
+  - {title: legal, url: "https://dmartinezphd.github.io/legal/"}
   # - {icon: rss, url: "/feed.xml"}
 
 comments:
