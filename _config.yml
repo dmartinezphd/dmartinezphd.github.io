@@ -23,7 +23,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "goodies.md", title: "Goodies"}
   - {file: "blog.md", title: "Blog"}
   - {file: "about.md", title: "Me"}
-  - {file: "legal.md", title: "Legal"} 
   # - {file: "tags.html", title: "Tags"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
