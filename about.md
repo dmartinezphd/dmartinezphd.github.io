@@ -1,8 +1,9 @@
 ---
-title: ""
-permalink: "/about/"
 layout: page
+title: ""
 ---
+<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="350"/>
+<hr>
 
 <img src="/assets/images/profile4.jpg" alt="DMM" width="100"/>
 
