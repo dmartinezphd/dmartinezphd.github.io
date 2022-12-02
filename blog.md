@@ -6,5 +6,5 @@ title: "Further Study Required Blog"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Posts sorted by date (<a href="https://dmartinezphd.github.io/tags/"> Sorted by Tag </a>)" %}
+  {% include archive.html title="Posts sorted by date" %}
 {% endif %}
