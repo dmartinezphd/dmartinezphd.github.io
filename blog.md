@@ -11,4 +11,4 @@ title: "<i>Further Study Required Blog</i>"
 
 <hr>
 
-# [Posts sorted by tag](/tags)
+# Posts sorted by --> [tags](/tags)
