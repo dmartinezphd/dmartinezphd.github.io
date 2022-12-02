@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: page
 title: "Tag: unfiled"
 tag: unfiled
 ---
