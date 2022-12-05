@@ -1,3 +1,11 @@
+---
+layout: page
+title: ""
+---
+
+<img align="middle" src="/assets/images/rwr_FULL7.png" alt="RWR" width="350"/>
+<hr>
+
 ## Speaking
 
 Random Walk provides speaking and workshop services in the following areas: 
