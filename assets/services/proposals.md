@@ -20,11 +20,10 @@ With experience in writing and reviewing grant proposals, writing quarterly repo
 Additionally, random walk can assist with editing and quality control, to ensure all proposal requirements are met.
 
 # Inquiries
-Inquire at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) for proposal/manuscript preparation and review
+Inquire at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) for proposal (and manuscript) preparation and review
 service fee schedule.
 
-<hr>
+---
+[<< Back to Services](/services)
 
-[<< Return Home](/index)
-
-<hr>
+---
