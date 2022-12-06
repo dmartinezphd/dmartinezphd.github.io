@@ -14,3 +14,11 @@ Life cycle assessment (LCA) is a complete method of measuring environmental impa
 - Evaluating the environmental effects caused by the inputs and outputs
 - Interpreting the results of the inventory
 - Evaluating the impact and offering suggestions for reducing such impacts
+
+### Inquiries
+Inquire at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) for LCA service fee schedule.
+
+---
+[<< Back to Services](/services)
+
+---
