@@ -38,7 +38,7 @@ Random Walk Research specializes in environmental data processing and analysis, 
 
 
 ### Inquiries
-Inquire at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) for literature review service fee schedule.
+Inquire at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) for research service fee schedule.
 
 ---
 [<< Back to Services](/services)
