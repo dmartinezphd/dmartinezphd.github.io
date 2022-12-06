@@ -18,6 +18,9 @@ Random Walk provides speaking and workshop services in the following areas:
 
 ## Inquiries
 
-Inquire about rates for short course training for STEM and policy and planning professionals at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) 
+Inquire about rates for speaking and short course training for STEM and policy & planning professionals at [daniel@randomwalkresearch.com](mailto:daniel@randomwalkresearch.com) 
 
+---
+[<< Back to Services](/services)
 
+---
